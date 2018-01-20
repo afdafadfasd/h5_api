@@ -1,0 +1,5 @@
+spring: 
+  application: 
+    name: h5-api
+  profiles: 
+    active: dev
